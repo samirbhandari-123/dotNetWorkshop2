@@ -1,4 +1,7 @@
-﻿string userName = "Samir";
+﻿// Task1
+string userName = "Samir";
 int luckyNumber = 7;
 
 Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
+
+
